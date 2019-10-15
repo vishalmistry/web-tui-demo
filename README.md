@@ -14,6 +14,7 @@ It demonstrates:
 To build, execute:
 
 ```
+npm install
 npm run build
 ```
 
