@@ -15,7 +15,7 @@
     "typescript": "^3.6.4",
     "typescript-tslint-plugin": "^0.5.4",
     "webpack": "^4.41.1",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "web-tui": "^0.1.0"
